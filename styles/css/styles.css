@@ -1,29 +1,76 @@
-.c-search:focus{
-    box-shadow: none;
-}
-.t-110{
-    top: 110px;
-}
-.bg-pink{
-    background-color:#FEEAE9;
+/* color-section */
+.bg-pink {
+    background-color: #FEEAE9;
 
 }
-.w-70{
-    width: 70%;
+
+.bg-grey {
+    background-color: #F4F4F4;
+
 }
-.w-80{
-    width: 80%;
-}
-.bg-orange{
+
+.bg-orange {
     background: linear-gradient(152.07deg, #FF9C35 1.47%, #FFD019 97.17%);
 }
-.bg-redpink{
+
+.bg-redpink {
     background: linear-gradient(180deg, #FF589B -0.01%, #FF136F 99.99%);
 }
-.bg-bluesky{
+
+.bg-bluesky {
     background: linear-gradient(170.41deg, #4289FF -10.89%, #3F07F8 92.77%);
 }
-.my-90{
+
+/* spacing-section */
+.t-110 {
+    top: 110px;
+}
+
+.mt-90 {
+    margin-top: 90px;
+}
+
+.my-90 {
     margin-top: 90px;
     margin-bottom: 90px;
+}
+
+.py-90 {
+    padding-top: 90px;
+    padding-bottom: 90px;
+}
+
+/* heigh-width-section */
+.h-46 {
+    height: 46%;
+}
+.w-20{
+    width: 20%;
+}
+.w-30{
+    width: 30%;
+}
+
+.w-70 {
+    width: 70%;
+}
+
+.w-80 {
+    width: 80%;
+}
+
+/* link-nav-section */
+.a-link {
+    text-decoration: none;
+    color: #FF9D00;
+
+}
+
+.a-link:hover {
+    color: #e28f08;
+}
+
+/* carosel-banner */
+.c-search:focus {
+    box-shadow: none;
 }
